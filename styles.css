@@ -10,7 +10,7 @@
 
 html, body{
     background-color:  hsl(30, 54%, 90%);
-    margin: 7rem 0;
+    margin: 2rem 0;
     overflow-x: hidden;
     width: 100%;
     font-family: var(--font-family-text);
